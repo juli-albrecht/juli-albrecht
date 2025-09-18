@@ -54,3 +54,7 @@
     <link rel="stylesheet" href="./style.css">
 </head>
 ```
+### Follow me on social media 🌐
+-> [LinkedIn](https://www.linkedin.com/in/juliellaalbrecht/)  
+-> [Instagram]()  
+-> [TikTok]()  
