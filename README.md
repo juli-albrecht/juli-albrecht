@@ -1,5 +1,10 @@
-## Hi there 👋
-
+## Hey, I'm Juli 👋
+### About me
+🎂 04.06.2002  
+👩‍💻 CPO @SchulLV  
+💪 Triathlon  
+❤️ [Lukas Kesch](https://github.com/lukaskesch)  
+🎓 B. Sc. Biologie KIT Karlsruhe  
 <!--
 **juli-albrecht/juli-albrecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
